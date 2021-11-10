@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+    <string name="title_text">this is a title text in shared prefs</string>
+    <string name="keyforinteger">65</string>
+</resources>
